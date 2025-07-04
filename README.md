@@ -46,8 +46,8 @@ This project analyzes the hiring data of a multinational company to uncover patt
 
 ## 📁 Files Included
 
-- `Hiring Process Analytics.pdf` – Full analysis report with charts, queries, and insights
-- `Hiring Process Analytics.xlsx` – Final cleaned dataset used for analysis
+- `Hiring_Process_Analytics.pdf` – Full analysis report with charts, queries, and insights
+- `Hiring_Process_Analytics.xlsx` – Final cleaned dataset used for analysis
 
 ---
 
